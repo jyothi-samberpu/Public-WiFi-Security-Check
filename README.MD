@@ -154,6 +154,6 @@ The Public Wi-Fi Security Checker helps users understand the security level of t
 
 ---
 
-## Author
+## Author jyothi-samberpu 
 
 Developed as a cybersecurity mini project using Python.
